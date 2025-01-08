@@ -58,6 +58,9 @@ Once the models are trained, the system allows users to input an email text. The
 
 ### Sample Output
 
-```bash
-Enter the email text: Congratulations! You've won a $1000 gift card. Click here to claim your prize!
-SPAM (Red)
+- Spam Email
+  <img width="236" alt="image" src="https://github.com/user-attachments/assets/caef9c71-9aaf-4db5-ab23-cf4d90390e18" />
+
+- Not Spam Email
+  <img width="274" alt="image" src="https://github.com/user-attachments/assets/75fb4e52-7e85-45c0-8973-c03543525a6a" />
+
